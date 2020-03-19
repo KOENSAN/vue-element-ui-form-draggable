@@ -1,0 +1,57 @@
+export const keyWordsConfig = [{
+  label: '单行文本',
+  name: 'input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '多行文本',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '单选框',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '多选框',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '计数器',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '选择器',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '级联选择器',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '开关',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '滑块',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '时间选择器',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '日期选择器',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '上传',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '评分',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}, {
+  label: '颜色选择器',
+  name: 'multiple-input',
+  tagIcon: 'el-icon-s-opportunity'
+}]
